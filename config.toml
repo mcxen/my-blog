@@ -1,4 +1,4 @@
-baseURL = "https://ittenblunt.github.com/my-blog/"
+baseURL = "https://ittenblunt.github.io/my-blog/"
 languageCode = "zh-CN"
 title = "Itten's Blog"
 theme = "hyde"
@@ -11,11 +11,11 @@ enableEmoji = true
 
 [Menus]
   main = [
-      {Name = "Archives", URL = "https://ittenblunt.github.com/my-blog/posts/"},
-      {Name = "Tags", URL = "https://ittenblunt.github.com/my-blog/tags/"},
-      {Name = "Books", URL = "https://ittenblunt.github.com/my-blog/books/"},
-      {Name = "Movies", URL = "https://ittenblunt.github.com/my-blog/movies/"},
-      {Name = "Photos", URL = "https://ittenblunt.github.com/my-blog/photos/"}
+      {Name = "Archives", URL = "https://ittenblunt.github.io/my-blog/posts/"},
+      {Name = "Tags", URL = "https://ittenblunt.github.io/my-blog/tags/"},
+      {Name = "Books", URL = "https://ittenblunt.github.io/my-blog/books/"},
+      {Name = "Movies", URL = "https://ittenblunt.github.io/my-blog/movies/"},
+      {Name = "Photos", URL = "https://ittenblunt.github.io/my-blog/photos/"}
   ]
 
 [params]
