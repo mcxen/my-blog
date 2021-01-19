@@ -13,7 +13,7 @@ enableEmoji = true
   main = [
       {Name = "Archives", URL = "https://ittenblunt.github.io/my-blog/posts/"},
       {Name = "Tags", URL = "https://ittenblunt.github.io/my-blog/tags/"},
-      {Name = "Tags", URL = "https://ittenblunt.github.io/my-blog/photos/"}      
+      {Name = "Photos", URL = "https://ittenblunt.github.io/my-blog/photos/"}      
   ]
 
 [params]
